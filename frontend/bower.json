@@ -1,0 +1,21 @@
+{
+  "name": "jquery-uploader",
+  "authors": [
+    "mickyginger <mickyginger@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3"
+  }
+}
